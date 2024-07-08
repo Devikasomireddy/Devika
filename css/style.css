@@ -1,0 +1,47 @@
+body{
+	padding: 40px;
+}
+
+
+.box{
+	background:#03fcc2;
+	width: 75%;
+	height: 600px;
+	box-sizing: border-box;
+	padding: 60px;
+	margin: 0 auto;
+	
+
+}
+.inside{
+	width: 65%;
+	height: 400px;
+	background: #a503fc;
+	margin: 0 auto;
+	position: relative;
+}
+.img-hero{
+	position: absolute;
+	top: 0%;
+	left: 20%;
+}
+.text-box{
+	position: absolute;
+	top:-2%;
+	left: 75%;
+}
+.image-box{
+	float:right;
+	height: 300px;
+	width: 45%;
+	top: -5%;
+}
+.button {
+	background-color: #03fcc2;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 16px;
+	border: none;
+	padding: 10px 30px;
+	margin: 4px 2px;
+}
